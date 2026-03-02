@@ -3,10 +3,10 @@
 # Victor Gless-Krumhorn
 
 Founder of **[JAIKIN](https://jaikin.eu)** · Former Military Intelligence · WM Analyst (UBS) · Le Wagon Alumni
+<br>
+France | Germany | Switzerland · Trilingual FR / EN / DE
 
 [![Website](https://img.shields.io/badge/jaikin.eu-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://jaikin.eu)
-[![Location](https://img.shields.io/badge/FR+%7C+DE+%7C+CH-1a1b27?style=for-the-badge&logo=google-maps&logoColor=58A6FF)]()
-[![Languages](https://img.shields.io/badge/FR+%2F+EN+%2F+DE-1a1b27?style=for-the-badge&logo=translate&logoColor=58A6FF)]()
 
 GenAI integration · Financial dashboards · Web applications · Secure infrastructure
 
