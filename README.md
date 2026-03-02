@@ -16,7 +16,7 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 
 ---
 
-**What I build** · GenAI integration · Financial dashboards · Web applications · Automated workflows
+**What I build** · GenAI integration · Financial dashboards · Web applications · Secure infrastructure
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -30,11 +30,21 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/Postgres-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 
 `RAG` `LLM Agents` `MCP Servers` `ETL Pipelines` `Embeddings` `OCR` `APIs`
+
+---
+
+**Security & Infrastructure** · CSRF double-submit · Redis rate limiting · JWT refresh rotation · RBAC · Zod validation · ClamAV file scanning · MIME magic-byte verification · Audit logging
+
+**Architecture** · Monorepo workspaces · State machines · Cloudinary CDN · Row-level locking · Streaming ZIP · Cron jobs · Zustand · Axios interceptors
+
+---
 
 **Day-to-day** · Identifying & delivering high-impact GenAI use cases · Building dashboards & BI pipelines · Shipping web apps from prototype to production
 
