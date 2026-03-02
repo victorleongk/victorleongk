@@ -45,9 +45,9 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 
 **AI & GenAI** · Custom RAG pipelines (pgvector + embeddings) · Multi-LLM provider architecture (OpenAI, Claude, Gemini) · Autonomous agents · Human-in-the-loop design
 
-**Security** · CSRF double-submit · Redis rate limiting · JWT refresh rotation · RBAC · Zod validation · ClamAV file scanning · MIME magic-byte verification · Audit logging
+**Security** · CSRF double-submit · CSP nonces · Redis rate limiting · JWT refresh rotation · OAuth2 · RBAC · HMAC-SHA256 webhook signing · Zod validation · ClamAV file scanning · MIME magic-byte verification · Audit logging
 
-**Architecture** · Monorepo workspaces · State machines · Cloudinary CDN · Row-level locking · Streaming ZIP · Cron jobs · Zustand · Axios interceptors
+**Architecture** · Monorepo workspaces · SSR / SSG · State machines · Streaming SSE · Cloudinary CDN · Stripe payments · Row-level locking · Streaming ZIP · Cron jobs · i18n
 
 ---
 
