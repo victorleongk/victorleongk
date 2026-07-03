@@ -58,6 +58,15 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 
 ---
 
+**✍️ Field notes** — real deployments, real numbers (in French)
+
+- [RAG in production at a 60-year-old manufacturer: 5 lessons no tutorial teaches](https://dev.to/victorjaikin/rag-en-entreprise-connecter-lia-a-vos-donnees-metier-guide-pratique-4d59) — admin time ÷3, why "I don't know" is the killer feature
+- [An AI agent in a staffing agency: whitelist actions, win the off-hours](https://medium.com/p/8a82e214b785) — agent ≠ chatbot, identity & GDPR as architecture
+- [Claude Code & Skills: the harness that ships to production](https://jaikin.hashnode.dev/claude-code-et-les-skills-quand-l-ia-code-pour-votre-entreprise) — separate evaluator agents, Lighthouse 100×4, lessons.md
+- More on the [Jaikin blog](https://www.jaikin.eu/blog) · Consulting: [jaikin.eu](https://www.jaikin.eu)
+
+---
+
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorwhale&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" width="95%" />
